@@ -1,0 +1,6 @@
+[submodule "fillers"]
+	path = fillers
+	url = ssh://git@git.wapstart.ru:10022/daemon-fillers.git
+[submodule "swordfishd"]
+	path = swordfishd
+	url = git@github.com:abaranovskiy/swordfishd.git
